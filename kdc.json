@@ -1,0 +1,52 @@
+{
+  "principals": [
+    {
+      "id": "HTTP/10.0.14.251@HUMAXDIGITAL.COM",
+      "password": "doroci-test-builder"
+    },
+    {
+      "id": "HTTP/doroci-test-builder@HUMAXDIGITAL.COM",
+      "password": "doroci-test-builder"
+    },
+    {
+      "id": "HTTP/doroci-test-builder.humaxdigital.com@HUMAXDIGITAL.COM",
+      "password": "doroci-test-builder"
+    },
+    {
+      "id": "HTTP/10.0.14.228@HUMAXDIGITAL.COM",
+      "password": "doroci-dev-builder"
+    },
+    {
+      "id": "HTTP/doroci-dev-builder@HUMAXDIGITAL.COM",
+      "password": "doroci-dev-builder"
+    },
+    {
+      "id": "HTTP/doroci-dev-builder.humaxdigital.com@HUMAXDIGITAL.COM",
+      "password": "doroci-dev-builder"
+    },
+    {
+      "id": "HTTP/10.0.10.70@HUMAXDIGITAL.COM",
+      "password": "1"
+    },
+    {
+      "id": "HTTP/swcho@HUMAXDIGITAL.COM",
+      "password": "1"
+    },
+    {
+      "id": "HTTP/swcho.humaxdigital.com@HUMAXDIGITAL.COM",
+      "password": "1"
+    },
+    {
+      "id": "HTTP/doroci-dev.humaxdigital.com@HUMAXDIGITAL.COM",
+      "password": "1"
+    },
+    {
+      "id": "swcho2@HUMAXDIGITAL.COM",
+      "password": "1"
+    }
+  ],
+  "domain": "humaxdigital.com",
+  "realm": "HUMAXDIGITAL.COM",
+  "ip": "10.0.14.203",
+  "port": 48088
+}
